@@ -1,0 +1,12 @@
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\ChatTest\bin\Debug\ChatTest.dll
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\ChatTest\bin\Debug\ChatTest.pdb
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\ChatTest\bin\Debug\SilverlightChat.dll
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\ChatTest\bin\Debug\SilverlightChatClient.dll
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\ChatTest\bin\Debug\SilverlightChatClient.Web.dll
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\ChatTest\bin\Debug\System.ServiceModel.PollingDuplex.dll
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\ChatTest\bin\Debug\SilverlightChatClient.Web.pdb
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\ChatTest\bin\Debug\SilverlightChatClient.pdb
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\ChatTest\bin\Debug\SilverlightChat.pdb
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\ChatTest\obj\Debug\ChatTest.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\ChatTest\obj\Debug\ChatTest.dll
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\ChatTest\obj\Debug\ChatTest.pdb

@@ -1,0 +1,16 @@
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChat\bin\SilverlightChat.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChat\bin\SilverlightChat.pdb
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChat\obj\Debug\SilverlightChat.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChat\obj\Debug\SilverlightChat.pdb
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChat\bin\System.ServiceModel.PollingDuplex.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChat\bin\SilverlightChat.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChat\bin\SilverlightChat.pdb
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChat\bin\System.ServiceModel.PollingDuplex.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChat\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChat\obj\Debug\SilverlightChat.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChat\obj\Debug\SilverlightChat.pdb
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChat\bin\SilverlightChat.dll
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChat\bin\SilverlightChat.pdb
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChat\obj\Debug\SilverlightChat.dll
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChat\obj\Debug\SilverlightChat.pdb

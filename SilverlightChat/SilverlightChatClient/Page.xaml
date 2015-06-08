@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="SilverlightChatClient.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="Aquamarine">
+    	<TextBox Height="23" HorizontalAlignment="Left" Margin="29,8,0,0" VerticalAlignment="Top" Width="131" Text="Name" TextWrapping="Wrap" 
+                x:Name="txtName" />
+    	<TextBox Height="24" Margin="29,49,156,0" VerticalAlignment="Top" Text="Chat text" TextWrapping="Wrap" x:Name="txtText"/>
+    	<Button Height="24" HorizontalAlignment="Right" Margin="0,49,67,0" VerticalAlignment="Top" Width="66" Content="Send" x:Name="btnSend" Click="btnSend_Click"/>
+        <Border  Background="White" Margin="8,77,8,8">
+        </Border>
+        <ListBox Margin="8,77,8,8" x:Name="listChat" DisplayMemberPath="Data" Background="Bisque"/>           
+    </Grid>
+</UserControl>

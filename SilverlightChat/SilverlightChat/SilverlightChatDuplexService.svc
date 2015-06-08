@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Factory="SilverlightChatDuplexService.PollingDuplexServiceHostFactory" CodeBehind="SilverlightChatDuplexService.svc.cs" %>

@@ -1,0 +1,47 @@
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient.Web\bin\SilverlightChatClient.Web.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient.Web\bin\SilverlightChatClient.Web.pdb
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient.Web\bin\System.Web.Silverlight.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient.Web\obj\Debug\SilverlightChatClient.Web.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient.Web\obj\Debug\SilverlightChatClient.Web.pdb
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\SilverlightChatClient.Web.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\SilverlightChatClient.Web.pdb
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\System.Web.Silverlight.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\obj\Debug\SilverlightChatClient.Web.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\obj\Debug\SilverlightChatClient.Web.pdb
+E:\SilverlightChat\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\SilverlightChatClient.Web.dll
+E:\SilverlightChat\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\SilverlightChatClient.Web.pdb
+E:\SilverlightChat\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\System.Web.Silverlight.dll
+E:\SilverlightChat\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\de\System.Web.Silverlight.resources.dll
+E:\SilverlightChat\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\es\System.Web.Silverlight.resources.dll
+E:\SilverlightChat\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\fr\System.Web.Silverlight.resources.dll
+E:\SilverlightChat\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\it\System.Web.Silverlight.resources.dll
+E:\SilverlightChat\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\ja\System.Web.Silverlight.resources.dll
+E:\SilverlightChat\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\ko\System.Web.Silverlight.resources.dll
+E:\SilverlightChat\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+E:\SilverlightChat\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+E:\SilverlightChat\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\SilverlightChat\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\obj\Debug\SilverlightChatClient.Web.dll
+E:\SilverlightChat\SilverlightChat\SilverlightChat\SilverlightChatClient.Web\obj\Debug\SilverlightChatClient.Web.pdb
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient.Web\bin\SilverlightChatClient.Web.dll.config
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient.Web\bin\SilverlightChatClient.Web.dll
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient.Web\bin\SilverlightChatClient.Web.pdb
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient.Web\obj\Debug\SilverlightChatClient.Web.dll
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient.Web\obj\Debug\SilverlightChatClient.Web.pdb

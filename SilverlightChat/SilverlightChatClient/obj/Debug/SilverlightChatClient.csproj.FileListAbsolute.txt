@@ -1,0 +1,55 @@
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\AppManifest.xaml
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\SilverlightChatClient.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\SilverlightChatClient.pdb
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\SilverlightChatClient.xap
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\TestPage.html
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\obj\Debug\App.g.cs
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\obj\Debug\Page.g.cs
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\obj\Debug\SilverlightChatClient.g.resources
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\obj\Debug\SilverlightChatClient.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\obj\Debug\SilverlightChatClient.pdb
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\obj\Debug\XapCacheFile.xml
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\System.ServiceModel.PollingDuplex.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\System.ServiceModel.PollingDuplex.xml
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\de\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\es\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\fr\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\it\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\ja\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\ko\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\zh-Hans\System.ServiceModel.PollingDuplex.resources.dll
+C:\Users\Radenko\Documents\Visual Studio 2008\Projects\SilverlightChat\SilverlightChatClient\Bin\Debug\zh-Hant\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\AppManifest.xaml
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\SilverlightChatClient.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\SilverlightChatClient.pdb
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\SilverlightChatClient.xap
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\TestPage.html
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\System.ServiceModel.PollingDuplex.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\System.ServiceModel.PollingDuplex.xml
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\de\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\es\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\fr\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\it\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\ja\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\ko\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\zh-Hans\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\Bin\Debug\zh-Hant\System.ServiceModel.PollingDuplex.resources.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\obj\Debug\App.g.cs
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\obj\Debug\Page.g.cs
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\obj\Debug\SilverlightChatClient.g.resources
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\obj\Debug\SilverlightChatClient.dll
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\obj\Debug\SilverlightChatClient.pdb
+C:\Documents and Settings\rabbit\Desktop\SilverlightChat\SilverlightChat\SilverlightChatClient\obj\Debug\XapCacheFile.xml
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient\Bin\Debug\SilverlightChatClient.dll
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient\Bin\Debug\SilverlightChatClient.pdb
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient\Bin\Debug\AppManifest.xaml
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient\Bin\Debug\SilverlightChatClient.xap
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient\Bin\Debug\TestPage.html
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient\obj\Debug\App.g.cs
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient\obj\Debug\Page.g.cs
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient\obj\Debug\SilverlightChatClient.g.resources
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient\obj\Debug\SilverlightChatClient.dll
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient\obj\Debug\SilverlightChatClient.pdb
+C:\Users\Андрей\Desktop\zzz\SilverlightChat\SilverlightChatClient\obj\Debug\XapCacheFile.xml

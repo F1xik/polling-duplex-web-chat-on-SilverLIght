@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightChatDuplexService", "SilverlightChat\SilverlightChatDuplexService.csproj", "{ACD98DB7-7701-489C-A651-F2FF539988A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightChatClient", "SilverlightChatClient\SilverlightChatClient.csproj", "{2A1939CC-C6F9-476F-BE82-927FF4ED7374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightChatClient.Web", "SilverlightChatClient.Web\SilverlightChatClient.Web.csproj", "{7BA7F746-A3F9-468D-A07E-A25727DF9B03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatTest", "ChatTest\ChatTest.csproj", "{D0CA5F25-1C4C-47D6-A479-28492D6706B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD98DB7-7701-489C-A651-F2FF539988A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD98DB7-7701-489C-A651-F2FF539988A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD98DB7-7701-489C-A651-F2FF539988A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD98DB7-7701-489C-A651-F2FF539988A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A1939CC-C6F9-476F-BE82-927FF4ED7374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1939CC-C6F9-476F-BE82-927FF4ED7374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1939CC-C6F9-476F-BE82-927FF4ED7374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1939CC-C6F9-476F-BE82-927FF4ED7374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA7F746-A3F9-468D-A07E-A25727DF9B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA7F746-A3F9-468D-A07E-A25727DF9B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA7F746-A3F9-468D-A07E-A25727DF9B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA7F746-A3F9-468D-A07E-A25727DF9B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0CA5F25-1C4C-47D6-A479-28492D6706B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CA5F25-1C4C-47D6-A479-28492D6706B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CA5F25-1C4C-47D6-A479-28492D6706B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CA5F25-1C4C-47D6-A479-28492D6706B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
